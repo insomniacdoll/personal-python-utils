@@ -5,8 +5,6 @@
 
 from utils import *
 import os
-import hashlib
-import sys
 import shutil
 import md5tool
 

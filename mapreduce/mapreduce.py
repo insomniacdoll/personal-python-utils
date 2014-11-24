@@ -3,8 +3,6 @@
 #
 # Author : insomniacdoll@gmail.com
 
-import os
-import sys
 import utils
 import logging
 
