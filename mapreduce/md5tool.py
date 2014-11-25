@@ -41,4 +41,4 @@ def gen_md5(fname, md5fname):
     f.close()
 
 def check_md5(fname, md5fname):
-    raise Exception('Not implement')
+    raise Exception('Not implement method')
